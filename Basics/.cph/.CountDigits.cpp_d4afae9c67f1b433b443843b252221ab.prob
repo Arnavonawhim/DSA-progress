@@ -1,0 +1,1 @@
+{"name":"Local: CountDigits","url":"c:\\Users\\Arnav\\Documents\\C & C++\\C++\\Basics\\CountDigits.cpp","tests":[{"id":1771322959802,"input":"4","output":"1"},{"id":1771322973708,"input":"23","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Arnav\\Documents\\C & C++\\C++\\Basics\\CountDigits.cpp","group":"local","local":true}
